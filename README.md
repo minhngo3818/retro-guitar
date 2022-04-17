@@ -1,3 +1,0 @@
-# SC-Assessment
-
-Tools: ...
