@@ -1,0 +1,31 @@
+Plant out websites:
+
+Main Pages
+Navbar: Logo Brand search-bar-middle Category
+Alig text and introduction
+Button: your guitar
+Banners: Advertisements
+Events:
+    3 Dummy Banners 
+Deals
+    3 Banner
+
+Support:
+    Card pics:
+        - Upgrade Gear
+        - Maintenance
+        - Rent Equipment
+        - Tutorials
+Reviews:
+    Three Review Cards
+Footer
+    About: Company, Career, Policy, Our Team, Press
+    Customers: Shop, Order Status, Return Policy, FAQ, Contact Us
+    Services: Upgrade Gear, Maintentance, Rent Equipment, Tutorials
+
+What-to-do
+- Do Complete Footers
+- Do Banners
+- Do Services
+- Do Routers
+- Deploy on github
