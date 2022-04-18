@@ -1,7 +1,8 @@
-import React from 'react'
-import Navbar from './Navbar'
-import logo from '../static/logos/logoretro.png'
-import background from '../static/images/background.jpg'
+import React from 'react';
+import Navbar from './Navbar';
+import Footer from './Footer';
+import logo from '../static/logos/logoretro.png';
+import background from '../static/images/background.jpg';
 
 
 function Header() {
@@ -18,11 +19,15 @@ function Header() {
                     </form>
                 </div>
             </header>
+
             <Navbar/>
+            
             <div>
-                <img src={background} width="100%" height="100%"/>
+                <img src={background} width="100%" height="460px"/>
             </div>
+            <Footer/>
         </div>
+        
     )
 }
 
