@@ -1,11 +1,10 @@
 import React from 'react';
-import Navbar from './Navbar';
-import Footer from './Footer';
+
 import logo from '../static/logos/logoretro.png';
-import background from '../static/images/background.jpg';
 
 
-function Header() {
+
+export default function Header() {
     return (
         <div id='main'>
             <header class="py-3 mb-4 border-bottom">
@@ -19,16 +18,8 @@ function Header() {
                     </form>
                 </div>
             </header>
-
-            <Navbar/>
-            
-            <div>
-                <img src={background} width="100%" height="460px"/>
-            </div>
-            <Footer/>
         </div>
         
     )
 }
 
-export default Header;

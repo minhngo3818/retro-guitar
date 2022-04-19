@@ -12,22 +12,16 @@ code {
     monospace;
 }
 
-/* * {
-  margin:0;
-  padding:0;
-}
-img {
-  max-width: 100%
-}
-.background-img {
-  width: auto
-}
-#main{
-
-  width:100%;
-  height:850px;
+.container-text {
   position: relative;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-image: url(static/images/background.jpg);
-} */
+  text-align: center;
+  color: white;
+  font-size: 24px
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}

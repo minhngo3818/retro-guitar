@@ -3,13 +3,13 @@ import {FaFax} from 'react-icons/fa';
 import {IoCallOutline} from 'react-icons/io5';
 import {AiOutlineHome, AiOutlineMail} from 'react-icons/ai';
 
-function Footer() {
+export default function Footer() {
     return (
         <footer class="py-5 pt-5 pb-4">
             <div class="container text-center text-md-left">
                 <div class="row text-start text-md-left">
                     <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mt-3">
-                        <h4>Need Support?</h4>
+                        <h4 class="text-center">Contact Us</h4>
                         <p>
                             <AiOutlineHome size={24} mt-3/> 10000 Avenue A., City B, IL 90000
                         </p>
@@ -63,5 +63,3 @@ function Footer() {
         </footer>
     );
 }
-
-export default Footer;

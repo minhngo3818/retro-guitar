@@ -24,7 +24,6 @@ Footer
     Services: Upgrade Gear, Maintentance, Rent Equipment, Tutorials
 
 What-to-do
-- Do Complete Footers
 - Do Banners
 - Do Services
 - Do Routers

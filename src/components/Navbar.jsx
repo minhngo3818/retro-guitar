@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Navbar() {
+export default function Navbar() {
     return (
         <div>
             <nav class="navbar navbar-expand-lg navbar-light bg-light">
@@ -22,7 +22,10 @@ function Navbar() {
                             </ul>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link active" aria-current="page" href="#">Deals</a>
+                                <a class="nav-link active" href="#">Store</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link active" href="#">Deals</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link active" href="#">Events</a>
@@ -37,5 +40,3 @@ function Navbar() {
         </div>
     )
 }
-
-export default Navbar;
