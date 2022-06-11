@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/retro-guitar/static/css/main.c5394c95.css",
+    "main.js": "/retro-guitar/static/js/main.00f2ed33.js",
+    "static/media/background.jpg": "/retro-guitar/static/media/background.fbc4e4970d6286e16e20.jpg",
+    "static/media/logoretro.png": "/retro-guitar/static/media/logoretro.a27b18a85d08fa9f12d8.png",
+    "index.html": "/retro-guitar/index.html",
+    "main.c5394c95.css.map": "/retro-guitar/static/css/main.c5394c95.css.map",
+    "main.00f2ed33.js.map": "/retro-guitar/static/js/main.00f2ed33.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5394c95.css",
+    "static/js/main.00f2ed33.js"
+  ]
+}
